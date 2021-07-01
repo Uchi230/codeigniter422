@@ -1,7 +1,7 @@
 <?php
 defined('BASEPATH') OR exit('No direct script access allowed');
 
-use chriskacerguis\RestServer\RestController;
+use chriskacerguis/codeigniter-restserver;
 
 class Api extends RestController {
 
